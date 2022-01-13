@@ -50,3 +50,6 @@ A cheatsheet for awesome cybersecurity skills
 
 ## Awesome Wordlists
 [Sec Lists](https://github.com/danielmiessler/SecLists)
+
+## Windows Whitelist Directory
+C:\Windows\System32\spool\drivers\color
